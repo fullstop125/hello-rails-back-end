@@ -129,6 +129,8 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+link to the front-end repository: [Front-end]([https://github.com/fullstop125/hello-rails-back-end](https://github.com/fullstop125/hello-react-front-end))
+
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
